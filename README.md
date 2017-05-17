@@ -2,7 +2,7 @@
 
 Combining Honeywell sensing, Intel technology, and Arrow Connect to track temperature, and other environmental conditions remotely and reliably. The system also supports on-the-fly rule definitions to trigger alerts or autonomously take actions.
 
-##Summary
+## Summary
 
 Utilizing multiple low-power sensing nodes – wirelessly connected via Bluetooth to a central Intel gateway – the Intel/Honeywell Cold Chain Monitor reliably reports environmental sensor data to the cloud through the Arrow Connect platform. The system reports temperature, humidity, pressure, and airflow readings at programmable intervals, which can be monitored through simple API.
 
