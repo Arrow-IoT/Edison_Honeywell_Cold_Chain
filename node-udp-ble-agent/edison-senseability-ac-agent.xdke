@@ -1,0 +1,82 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1494269719855,
+        "modified": 1494269719855,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "ble-senseability.js": {
+        "previousModTime": 1494694817308,
+        "modified": 1494694817308,
+        "seen": true,
+        "name": "ble-senseability.js"
+      },
+      "edison-senseability-ac-agent.xdk": {
+        "previousModTime": 1494269720306,
+        "modified": 1494269720306,
+        "seen": true,
+        "name": "edison-senseability-ac-agent.xdk"
+      },
+      "edison-senseability-ac-agent.xdke": {
+        "previousModTime": 1494712879861,
+        "modified": 1494712879861,
+        "seen": true,
+        "name": "edison-senseability-ac-agent.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1494269719855,
+        "modified": 1494269719855,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1494269719855,
+        "modified": 1494269719855,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1494694830529,
+        "modified": 1494694830529,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1494270285241,
+        "modified": 1494270285241,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1494269719857,
+        "modified": 1494269719857,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1494269720123,
+        "modified": 1494269720123,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "udpForwarder.js": {
+        "previousModTime": 1494685447625,
+        "modified": 1494685447625,
+        "seen": true,
+        "name": "udpForwarder.js"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}
